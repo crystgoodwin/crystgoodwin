@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Crystal</h1>
-<h3>A frontend developer from the Lehigh Valley, PA</h3>
+<h3>A frontend developer from Bucks County, PA</h3>
 
 - 🔭 I’m currently working on **building my portfolio website**
 
