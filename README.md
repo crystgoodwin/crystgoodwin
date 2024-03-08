@@ -2,9 +2,9 @@
 <br>
 
 <h2 align=center>Hi, I'm Crystal</h2>
-<h3 align=center>A frontend developer & designer from the Philadelphia area</h3>
+<h3 align=center>A web designer and developer from the Philadelphia area</h3>
 <br>
-<p align="center">I am a creative front-end web developer and designer with a background in art and architecture. I’m an avid learner that enjoys problem-solving and building projects. I am also experienced with HTML email development and marketing, building and testing responsive and scalable HTML emails that render correctly in all email clients using HTML & CSS.</p>
+<p align="center">I am a creative web designer and front-end web developer with a background in art and architecture. I’m an avid learner who enjoys problem-solving and building projects.</p>
 <br>
 
 <h4 align="left">Languages and Tools:</h4>
