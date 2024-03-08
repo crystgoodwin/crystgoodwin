@@ -7,11 +7,6 @@
 <p align="center">I am a creative front-end web developer and designer with a background in art and architecture. I’m an avid learner that enjoys problem-solving and building projects. I am also experienced with HTML email development and marketing, building and testing responsive and scalable HTML emails that render correctly in all email clients using HTML & CSS.</p>
 <br>
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/crystal-goodwin-718045188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crystal-goodwin-718045188" height="30" width="40" /></a>
-</p>
-
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-3F4E4F?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
